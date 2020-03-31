@@ -1,0 +1,83 @@
+Our price details  
+ 
+ <section class="pricing-area section-padding pt-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <!-- section title start -->
+                        <div class="section-title text-center">
+                            <h2 class="h1 title">Our Pricing</h2>
+                            <p>labore dolore magnam aliquam quaerat voluptatem ad minima veniam, quis nostrum exercitationem</p>
+                        </div>
+                        <!-- section title end -->
+                    </div>
+                </div>
+                <div class="row mtn-30">
+                    <!-- pricing item start -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="pricing-item mt-30">
+                            <div class="price-head">
+                                <h2><span class="dolar">$</span>40</h2>
+                                <h4> /Day</h4>
+                            </div>
+                            <h2 class="pricing-title">Basic</h2>
+                            <ul class="pricing-list">
+                                <li>Feugiat risus sitamet rutrum </li>
+                                <li>Lorem ipsul dolor sit amet.</li>
+                                <li>Nam feugiat risus sitamet.</li>
+                                <li>Feugiat risus sitamet rutrum </li>
+                                <li>Praesent finibus.</li>
+                            </ul>
+                            <div class="pricing-button">
+                                <a href="#" class="btn btn-all">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- pricing item end -->
+
+                    <!-- pricing item start -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="pricing-item active mt-30">
+                            <div class="price-head">
+                                <h2><span class="dolar">$</span>80</h2>
+                                <h4> /Week</h4>
+                            </div>
+                            <h2 class="pricing-title">Basic</h2>
+                            <ul class="pricing-list">
+                                <li>Feugiat risus sitamet rutrum </li>
+                                <li>Lorem ipsul dolor sit amet.</li>
+                                <li>Nam feugiat risus sitamet.</li>
+                                <li>Feugiat risus sitamet rutrum </li>
+                                <li>Praesent finibus.</li>
+                            </ul>
+                            <div class="pricing-button">
+                                <a href="#" class="btn btn-all">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- pricing item end -->
+
+                    <!-- pricing item start -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="pricing-item mt-30">
+                            <div class="price-head">
+                                <h2><span class="dolar">$</span>120</h2>
+                                <h4> /Month</h4>
+                            </div>
+                            <h2 class="pricing-title">Basic</h2>
+                            <ul class="pricing-list">
+                                <li>Feugiat risus sitamet rutrum </li>
+                                <li>Lorem ipsul dolor sit amet.</li>
+                                <li>Nam feugiat risus sitamet.</li>
+                                <li>Feugiat risus sitamet rutrum </li>
+                                <li>Praesent finibus.</li>
+                            </ul>
+                            <div class="pricing-button">
+                                <a href="#" class="btn btn-all">Order Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- pricing item end -->
+                </div>
+            </div>
+        </section>
